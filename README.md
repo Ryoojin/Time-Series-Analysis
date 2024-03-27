@@ -6,8 +6,11 @@ We prepared the data by dealing with missing values, outliers, and duplicates. W
 
 Business Insights:
  Category wise insights: We analyzed the dataset and found the top and lowest revenue-generating categories. We can observe that Credit Bureaus, Industrial Machinery and Equipment, and Data Processing, Hosting, and related services are some of the top revenue-generating categories. Whereas, some of the lowest categories include Commercial Printing, Toy industries, etc. This information can help Pitney Bowes identify potential areas for improvement or expansion.
+
  Client segmentation: By grouping clients into different segments based on their recency, frequency, and monetary value, we can tailor marketing and sales strategies for each segment. This information can identify potential areas for improvement or expansion.
+
  Clustering analysis: We used the elbow method to split our data into 4 clusters based on their average normalized RFM values. This analysis can help Pitney Bowes make informed decisions about resource allocation, budget planning, and staffing.
+
  Seasonal trends: We used rolling mean analysis to identify changes in revenue that recur every 3 months or year. This analysis helped us determine busy seasons and make informed decisions about staffing and resource allocation.
 
 Conclusion:
